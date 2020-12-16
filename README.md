@@ -1,5 +1,7 @@
 # 红队中易被攻击的一些重点系统漏洞整理
 
+配合EHole(棱洞)-红队重点攻击系统指纹探测工具使用效果更佳：https://github.com/ShiHuang-ESec/EHole
+
 ## 一、OA系统
 
 #### 泛微(Weaver-Ecology-OA)
