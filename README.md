@@ -90,7 +90,7 @@
 🔸 [Weblogic coherence组件iiop反序列化漏洞 (CVE-2020-14644)](https://xz.aliyun.com/t/8155)<br>
 🔸 [Weblogic历史漏洞合集](https://sploitus.com/?query=weblogic#exploits)<br>
 
-#### JBoss
+#### JBoss  感谢@Lx
 
 🔸 [CVE-2017-7504-JBoss JMXInvokerServlet 反序列化](https://www.cnblogs.com/null1433/p/12704908.html)<br>
 🔸 [JBoss 5.x/6.x 反序列化漏洞（CVE-2017-12149）](https://www.cnblogs.com/kuaile1314/p/12060366.html)<br>
