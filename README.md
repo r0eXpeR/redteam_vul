@@ -116,6 +116,7 @@
 
 #### 禅道
 
+🔸 [【组件攻击链】禅道项目管理系统(ZenTaoPMS)高危漏洞分析与利用](https://www.4hou.com/posts/VoOW)<br>
 🔸 [CNVD-C-2020-121325 禅道开源版文件上传漏洞](https://blog.csdn.net/qq_36197704/article/details/109385695)<br>
 🔸 [禅道9.1.2 免登陆SQL注入漏洞](https://xz.aliyun.com/t/171/)<br>
 🔸 [禅道 ≤ 12.4.2 后台管理员权限Getshell](https://www.cnblogs.com/ly584521/p/13962816.html)<br>
