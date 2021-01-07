@@ -132,6 +132,7 @@
 🔸 [Jira未授权SSRF漏洞(CVE-2019-8451)](https://www.cnblogs.com/backlion/p/11608371.html)<br>
 🔸 [Atlassian JIRA服务器模板注入漏洞（CVE-2019-11581）](https://www.cnblogs.com/backlion/p/11608439.html)<br>
 🔸 [CVE-2019-8449 JIRA 信息泄漏漏洞](https://xz.aliyun.com/t/7219)<br>
+🔸 [遇到Jira时可以尝试的一些CVE](https://twitter.com/harshbothra_/status/1346109605756116995)<br>
 🔸 [Jira历史漏洞合集](https://sploitus.com/?query=Jira#exploits)<br>
 
 ## 六、数据库
