@@ -30,7 +30,7 @@
 * [2021.01.07] - [致远OA A8-v5 任意用户密码修改](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0104942)
 * [2021.01.07] - [致远OA A8-m 后台万能密码](https://www.cnblogs.com/AtesetEnginner/p/12106741.html)
 * [2021.01.07] - [致远OA 帆软报表组件 前台XXE漏洞](https://landgrey.me/blog/8/)
-* [2021.01.07] - [致远OA帆软报表组件反射型XSS&SSRF漏洞](https://landgrey.me/blog/7/) - Thinks:@LandGrey
+* [2021.01.07] - [致远OA帆软报表组件反射型XSS&SSRF漏洞](https://landgrey.me/blog/7/) - Thanks:@LandGrey
 
 > 蓝凌OA
 
