@@ -4,8 +4,6 @@
 
 配合EHole(棱洞)-红队重点攻击系统指纹探测工具使用效果更佳：https://github.com/EdgeSecurityTeam/EHole
 
-此项目同步至：https://forum.ywhack.com/bountytips.php?Vulnerability
-
 ## 一、OA系统
 
 > 泛微(Weaver-Ecology-OA)
